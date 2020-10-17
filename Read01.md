@@ -356,7 +356,7 @@ So instead of this:
 
 It will look like this:
 
-![ex](/files/Read01-58.png)
+![ex](/files/Read01-8.png)
 
 
 #### Problems with Floats
