@@ -1,11 +1,12 @@
 # Code 301 Reading Notes
-#### Code 301 - Intermediate Software Development reading notes
 
->  ***Please make yourself home***
+## Code 301 - Intermediate Software Development reading notes
+
+>***Please make yourself home***
 
 | **Number** | **Name and Link** |
 |------------|-------------------|
-| *Read01* ||
+| *Read01* |[SMACSS and Responsive Web Design](https://hadeaji.github.io/reading-notes/Read01)|
 | *Read02* ||
 | *Read03* ||
 | *Read04* ||
