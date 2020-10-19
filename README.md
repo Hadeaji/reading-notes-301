@@ -8,7 +8,7 @@
 |------------|-------------------|
 | *Read01* |[SMACSS and Responsive Web Design](https://hadeaji.github.io/reading-notes/Read01)|
 | *Read02* |[jQuery, Events, and The DOM](https://hadeaji.github.io/reading-notes/Read02)|
-| *Read03* ||
+| *Read03* |[Flexbox and Templating](https://hadeaji.github.io/reading-notes/Read03)|
 | *Read04* ||
 | *Read05* ||
 | *Read06* ||
