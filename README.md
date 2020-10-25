@@ -11,8 +11,8 @@
 | *Read03* |[Flexbox and Templating](https://hadeaji.github.io/reading-notes/Read03)|
 | *Read04* |[Responsive Web Design and Regular Expressions](https://hadeaji.github.io/reading-notes/Read04)|
 | *Read05* |[HEROKU](https://hadeaji.github.io/reading-notes/Read05)|
-| *Read06* ||
-| *Read07* ||
+| *Read06* |[Node, Express, and APIs](https://hadeaji.github.io/reading-notes/Read06)|
+| *Read07* |[APIs continued](https://hadeaji.github.io/reading-notes/Read07)|
 | *Read08* ||
 | *Read09* ||
 | *Read10* ||
