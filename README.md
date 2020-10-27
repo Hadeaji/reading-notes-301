@@ -14,7 +14,7 @@
 | *Read06* |[Node, Express, and APIs](https://hadeaji.github.io/reading-notes/Read06)|
 | *Read07* |[APIs continued](https://hadeaji.github.io/reading-notes/Read07)|
 | *Read08* |[SQL](https://hadeaji.github.io/reading-notes/Read08)|
-| *Read09* ||
+| *Read09* |[Refactoring](https://hadeaji.github.io/reading-notes/Read09)|
 | *Read10* ||
 | *Read11* ||
 | *Read12* ||
