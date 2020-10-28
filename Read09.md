@@ -60,8 +60,6 @@ the function .map() will make it much easier for you as you can easily return ne
 
 you can use the `Reduce` in the proper way in order to make the fuction as your value
 
-
-
 ## Strategies
 
 - Return early from functions instead if writing multi empty lines for a return.
