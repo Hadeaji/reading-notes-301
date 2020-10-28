@@ -15,7 +15,7 @@
 | *Read07* |[APIs continued](https://hadeaji.github.io/reading-notes/Read07)|
 | *Read08* |[SQL](https://hadeaji.github.io/reading-notes/Read08)|
 | *Read09* |[Refactoring](https://hadeaji.github.io/reading-notes/Read09)|
-| *Read10* ||
+| *Read10* |[The Call Stack](https://hadeaji.github.io/reading-notes/Read10)|
 | *Read11* ||
 | *Read12* ||
 | *Read13* ||
