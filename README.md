@@ -16,8 +16,8 @@
 | *Read08* |[SQL](https://hadeaji.github.io/reading-notes/Read08)|
 | *Read09* |[Refactoring](https://hadeaji.github.io/reading-notes/Read09)|
 | *Read10* |[The Call Stack](https://hadeaji.github.io/reading-notes/Read10)|
-| *Read11* ||
-| *Read12* ||
+| *Read11* |[EJS](https://hadeaji.github.io/reading-notes/Read11)|
+| *Read12* |[Components](https://hadeaji.github.io/reading-notes/Read12)|
 | *Read13* ||
 | *Read14a* ||
 | *Read14b* ||
