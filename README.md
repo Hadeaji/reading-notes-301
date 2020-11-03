@@ -19,6 +19,6 @@
 | *Read11* |[EJS](https://hadeaji.github.io/reading-notes/Read11)|
 | *Read12* |[Components](https://hadeaji.github.io/reading-notes/Read12)|
 | *Read13* |[Update/Delete](https://hadeaji.github.io/reading-notes/Read13)|
-| *Read14a* ||
-| *Read14b* ||
+| *Read14a* |[DB Normalization](https://hadeaji.github.io/reading-notes/Read14a)|
+| *Read14b* |[Project Idea](https://hadeaji.github.io/reading-notes/Read14b)|
 | *Read15* ||
