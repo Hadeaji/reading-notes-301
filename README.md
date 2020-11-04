@@ -21,4 +21,4 @@
 | *Read13* |[Update/Delete](https://hadeaji.github.io/reading-notes/Read13)|
 | *Read14a* |[DB Normalization](https://hadeaji.github.io/reading-notes/Read14a)|
 | *Read14b* |[Project Idea](https://hadeaji.github.io/reading-notes/Read14b)|
-| *Read15* ||
+| *Read15* |[Diversity and Inclusion](https://hadeaji.github.io/reading-notes/Read15)|
